@@ -1,2 +1,2 @@
-# sample-cat
-working cat blueprint current as of 06-NOV-2020
+# PetDesk Cat Blueprint
+![Plate cover](https://raw.githubusercontent.com/PetDesk/cat-template/master/shield.png)
